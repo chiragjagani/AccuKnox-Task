@@ -59,8 +59,8 @@ dashboard-app/
 
 1. Clone the repository:
    ```bash
-   git clone [your-repository-url]
-   cd dashboard-app
+   git clone https://github.com/chiragjagani/AccuKnox-Task.git
+   cd AccuKnox-Task
    ```
 
 2. Install dependencies:
@@ -74,23 +74,6 @@ dashboard-app/
    ```
 
 4. Open your browser and navigate to `http://localhost:5173`
-
-### Development
-
-- Run the development server:
-  ```bash
-  npm run dev
-  ```
-
-- Build for production:
-  ```bash
-  npm run build
-  ```
-
-- Preview production build:
-  ```bash
-  npm run preview
-  ```
 
 ## Contributing
 
