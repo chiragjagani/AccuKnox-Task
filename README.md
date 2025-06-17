@@ -5,7 +5,6 @@ A modern, responsive dashboard application built with React and Vite, featuring 
 ## Features
 
 - **Category/Group-Segmented Dashboard**
-  - Category/group-segmented dashboard
   - Widgets: pie, donut, stacked bar, text, empty state
   - Add/remove widgets per category, with persistent drawer UI
   - Create new widgets via header "+ Add Widget" drawer, assign to any section
